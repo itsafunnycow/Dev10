@@ -1,0 +1,49 @@
+body {
+  background-color: #8E79AD;
+  color: #1B053A;
+}
+
+noscript {
+  background-color: yellow;
+  color: red;
+}
+nav a, button {
+  border: none;
+  padding: 10px;
+  margin: 10px 10px 10px 10px;
+  background-color: #1B053A;
+  color:#6A4E90;
+}
+
+nav {
+  border-top: 2px solid #1B053A;
+  border-bottom: 2px solid #1B053A;
+  margin-bottom: 30px;
+}
+
+nav .btn:hover {
+  font-weight: bold;
+  color:#6A4E90;
+}
+
+footer {
+  text-align: center;
+  background-color: #6A4E90;
+  color: #1B053A;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #6A4E90;
+  color: #1B053A;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.carousel {
+  width: 70%;
+  min-height: 100px;
+  margin: auto;
+}
